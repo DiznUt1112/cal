@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "273437707548",
+    "project_id": "flutter-users-85cfe",
+    "storage_bucket": "flutter-users-85cfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273437707548:android:2e5b21adc1018c9440bed9",
+        "android_client_info": {
+          "package_name": "com.example.fitness_tracker1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDGRSYiRQYm3lVAXRLVBqgEW1yJdK64tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273437707548:android:1a73ba340b6d676f40bed9",
+        "android_client_info": {
+          "package_name": "net.itshuntra.pumipat13"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDGRSYiRQYm3lVAXRLVBqgEW1yJdK64tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
